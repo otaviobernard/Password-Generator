@@ -1,0 +1,8 @@
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\bin\Debug\GerarSenha.exe.config
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\bin\Debug\GerarSenha.exe
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\bin\Debug\GerarSenha.pdb
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\obj\Debug\GerarSenha.csproj.AssemblyReference.cache
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\obj\Debug\GerarSenha.csproj.SuggestedBindingRedirects.cache
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\obj\Debug\GerarSenha.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\obj\Debug\GerarSenha.exe
+C:\Users\otavi\Documents\CODES\c#\consoleapp1\GerarSenha\obj\Debug\GerarSenha.pdb
